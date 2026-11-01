@@ -1,0 +1,6 @@
+{
+  "name": "nanochat",
+  "description": "二次元角色扮演与AI生图应用",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
