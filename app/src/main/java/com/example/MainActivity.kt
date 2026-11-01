@@ -283,7 +283,6 @@ fun NanoChatScreen() {
             .fillMaxSize()
             .background(Color(0xFFF3EEE6))
             .systemBarsPadding()
-            .imePadding()
             .testTag("nanochat_main_container")
     ) {
         AndroidView(
